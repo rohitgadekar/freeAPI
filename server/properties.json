@@ -1,0 +1,125 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Cozy Apartment in the City",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066657/project/cropped/alexander-london-hIz8LZW8qfI-unsplash_ceobrm_gy0fut.jpg ",
+        "ratings": 4.8
+      },
+      {
+        "id": 2,
+        "title": "Luxury Villa with Ocean View",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066658/project/cropped/digital-marketing-agency-ntwrk-g39p1kDjvSY-unsplash_wddsfj_fr9jvz.jpg",
+        "ratings": 4.9
+      },
+      {
+        "id": 3,
+        "title": "Charming Countryside Cottage",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066658/project/cropped/cole-ankney-ZdJ6eIKN3G0-unsplash_mtz47t_svw7gq.jpg",
+        "ratings": 4.5
+      },
+      {
+        "id": 4,
+        "title": "Modern Downtown Loft",
+        "image": "https://example.com/images/loft1.jpg",
+        "ratings": 4.7
+      },
+      {
+        "id": 5,
+        "title": "Mountain Cabin Retreat",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066658/project/cropped/daria-nepriakhina-LwnIuhH_5Q4-unsplash_psv8gl_c7liak.jpg",
+        "ratings": 4.6
+      },
+      {
+        "id": 6,
+        "title": "Beachfront Bungalow",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066661/project/cropped/georgia-de-lotz-qPmKTfyVOBs-unsplash_n1ztu1_dvkwhd.jpg",
+        "ratings": 4.8
+      },
+      {
+        "id": 7,
+        "title": "Rustic Farmhouse Getaway",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066660/project/cropped/dillon-kydd-2keCPb73aQY-unsplash_cq8gny_qk4nuv.jpg",
+        "ratings": 4.4
+      },
+      {
+        "id": 8,
+        "title": "Urban Studio Apartment",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066663/project/cropped/nicole-baster-3jF08vbfCek-unsplash_dmprmg_s1npdx.jpg",
+        "ratings": 4.6
+      },
+      {
+        "id": 9,
+        "title": "Serenity Lakeside Retreat",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066661/project/cropped/evelyn-paris-XJnP4L958ds-unsplash_gmtess_f0vsuv.jpg",
+        "ratings": 4.9
+      },
+      {
+        "id": 10,
+        "title": "Historic Colonial House",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066663/project/cropped/jared-rice-AhiUnolb7cg-unsplash_zotweh_pivyle.jpg",
+        "ratings": 4.7
+      },
+      {
+        "id": 11,
+        "title": "Modern Loft with City View",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066666/project/cropped/r-architecture-Cn87TISYij8-unsplash_ibihdy_zfmeir.jpg",
+        "ratings": 4.5
+      },
+      {
+        "id": 12,
+        "title": "Scenic Mountain Chalet",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066665/project/cropped/oak-motion-7iC0Npl7Hds-unsplash_i4akfv_dxnmy2.jpg",
+        "ratings": 4.8
+      },
+      {
+        "id": 13,
+        "title": "Beachside Villa Getaway",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066669/project/cropped/webaliser-_TPTXZd9mOo-unsplash_rt1hsa_ala27w.jpg",
+        "ratings": 4.7
+      },
+      {
+        "id": 14,
+        "title": "Quaint Riverside Cottage",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066663/project/cropped/ksenia-balandina-RCF5KSWb7Ms-unsplash_kbh70q_r6txnq.jpg",
+        "ratings": 4.6
+      },
+      {
+        "id": 15,
+        "title": "Contemporary Downtown Apartment",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066661/project/cropped/fomstock-4ojhpgKpS68-unsplash_ul98xu_debnp8.jpg",
+        "ratings": 4.9
+      },
+      {
+        "id": 16,
+        "title": "Cozy Mountain Cabin",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066668/project/cropped/vj-von-art-BP1Ze0qcp-c-unsplash_un5tuk_bjxxhl.jpg",
+        "ratings": 4.8
+      },
+      {
+        "id": 17,
+        "title": "Elegant Lakeside Villa",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066667/project/cropped/stephan-bechert-yFV39g6AZ5o-unsplash_cgtd7h_ym5lij.jpg",
+        "ratings": 4.7
+      },
+      {
+        "id": 18,
+        "title": "Historic Farmhouse Stay",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066663/project/cropped/istrfry-marcus-g3L4uUfDQdg-unsplash_quthmk_o25fow.jpg",
+        "ratings": 4.5
+      },
+      {
+        "id": 19,
+        "title": "Urban Loft in the Heart of the City",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066658/project/cropped/daniel-barnes-RKdLlTyjm5g-unsplash_bsfgoq_j3ockq.jpg",
+        "ratings": 4.6
+      },
+      {
+        "id": 20,
+        "title": "Rural Cabin Retreat",
+        "image": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1692066669/project/cropped/vj-von-art-fCUJxm3V6B4-unsplash_quzyt1_vx6ful.jpg",
+        "ratings": 4.9
+      }
+    ]
+
+}
