@@ -5,133 +5,160 @@
       "uid": "f6c9f537-07a3-45d0-9d29-b725fa1a20d7",
       "credit_card_number": "1212-1221-1121-1234",
       "credit_card_expiry_date": "2024-08-30",
-      "credit_card_type": "maestro"
+      "credit_card_type": "maestro",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545550/iluus/Maestro_nlkjva.png"
     },
     {
       "id": 4821,
       "uid": "a7e5b468-89cd-4f0e-b8b7-3f97d25d6e22",
       "credit_card_number": "4321-5678-9876-5432",
       "credit_card_expiry_date": "2023-11-15",
-      "credit_card_type": "visa"
+      "credit_card_type": "visa",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506825/iluus/58482363cef1014c0b5e49c1_v8mmsq.png"
     },
     {
       "id": 1735,
       "uid": "d4f8e82a-63e1-45b7-a45f-91063f428f43",
       "credit_card_number": "7890-1234-5678-9012",
       "credit_card_expiry_date": "2025-02-09",
-      "credit_card_type": "mastercard"
+      "credit_card_type": "mastercard",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506980/iluus/mastercard-26161_xoy38d.png"
     },
     {
       "id": 6078,
       "uid": "ba1a9b0f-6bbd-4a45-8a0d-6b7e1a3d4c09",
       "credit_card_number": "2468-1357-9753-8642",
       "credit_card_expiry_date": "2023-09-21",
-      "credit_card_type": "amex"
+      "credit_card_type": "amex",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693503805/iluus/american-express-logo-freelogovectors.net_-1_1_lh8mnz.png"
     },
     {
       "id": 9243,
       "uid": "f0e5c7d6-9a8b-4c3d-b1e0-2456a890d7e1",
       "credit_card_number": "9876-5432-1098-7654",
       "credit_card_expiry_date": "2024-12-05",
-      "credit_card_type": "discover"
+      "credit_card_type": "discover",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545639/iluus/pngegg_zowfq4.png"
     },
     {
       "id": 7362,
       "uid": "1b3a0c94-70b1-415d-b540-ef8d6325e293",
       "credit_card_number": "5643-8901-4321-9876",
       "credit_card_expiry_date": "2025-06-18",
-      "credit_card_type": "visa"
+      "credit_card_type": "visa",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506825/iluus/58482363cef1014c0b5e49c1_v8mmsq.png"
     },
     {
       "id": 5189,
       "uid": "c8d2e9a7-5f6b-4e4d-a6c9-b2a1f7e8d3c6",
       "credit_card_number": "2109-8765-4321-1098",
       "credit_card_expiry_date": "2023-10-30",
-      "credit_card_type": "mastercard"
+      "credit_card_type": "mastercard",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506980/iluus/mastercard-26161_xoy38d.png"
     },
     {
       "id": 2915,
       "uid": "7e6f5d4c-3b2a-1d0e-9f8c-4b5a6e7d8f9e",
       "credit_card_number": "7654-3210-9876-5432",
       "credit_card_expiry_date": "2024-05-14",
-      "credit_card_type": "amex"
+      "credit_card_type": "amex",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693503805/iluus/american-express-logo-freelogovectors.net_-1_1_lh8mnz.png"
     },
     {
       "id": 6392,
       "uid": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
       "credit_card_number": "4321-8765-2109-5432",
       "credit_card_expiry_date": "2023-07-27",
-      "credit_card_type": "discover"
+      "credit_card_type": "discover",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545639/iluus/pngegg_zowfq4.png"
     },
     {
       "id": 8462,
       "uid": "d8c7b6a5-4f3e-2d1c-0b9a-8e7d6f5c4b3a",
       "credit_card_number": "9876-5432-1098-4321",
       "credit_card_expiry_date": "2025-09-08",
-      "credit_card_type": "maestro"
+      "credit_card_type": "maestro",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545550/iluus/Maestro_nlkjva.png"
     },
     {
       "id": 7429,
       "uid": "9a8b7c6d-5e4f-3a2b-1c0d-8e7f6a5b4c3",
       "credit_card_number": "5432-9876-2109-8765",
       "credit_card_expiry_date": "2023-12-17",
-      "credit_card_type": "visa"
+      "credit_card_type": "visa",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506825/iluus/58482363cef1014c0b5e49c1_v8mmsq.png"
     },
     {
       "id": 1567,
       "uid": "3e7f6a8d-2c4b-5e1f-7a9b-0c3d4f6e8a2b",
       "credit_card_number": "2109-4321-9876-5432",
       "credit_card_expiry_date": "2024-02-23",
-      "credit_card_type": "mastercard"
+      "credit_card_type": "mastercard",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506980/iluus/mastercard-26161_xoy38d.png"
     },
     {
       "id": 8721,
       "uid": "b5c4d3e2-1f0a-9b8c-7d6e-5f4a3b2c1d0e",
       "credit_card_number": "7654-1098-4321-2109",
       "credit_card_expiry_date": "2023-08-09",
-      "credit_card_type": "amex"
+      "credit_card_type": "amex",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693503805/iluus/american-express-logo-freelogovectors.net_-1_1_lh8mnz.png"
     },
-    {
-      "id": 3018,
-      "uid": "9e8d4c3b-2a1f-5b0e-7a6d-8f9c0d1e2a3f",
-      "credit_card_number": "1234-5678-9012-3456",
-      "credit_card_expiry_date": "2024-03-12",
-      "credit_card_type": "discover"
-    },
-    {
+     {
       "id": 5183,
       "uid": "1b2c3d4e-5f6a-7b8c-9d0e-a1b2c3d4e5f",
       "credit_card_number": "2345-6789-0123-4567",
       "credit_card_expiry_date": "2023-05-29",
-      "credit_card_type": "maestro"
+      "credit_card_type": "maestro",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545550/iluus/Maestro_nlkjva.png"
     },
     {
       "id": 7192,
       "uid": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8",
       "credit_card_number": "3456-7890-1234-5678",
       "credit_card_expiry_date": "2025-11-03",
-      "credit_card_type": "visa"
+      "credit_card_type": "visa",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506825/iluus/58482363cef1014c0b5e49c1_v8mmsq.png"
     },
     {
       "id": 9267,
       "uid": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3",
       "credit_card_number": "4567-8901-2345-6789",
       "credit_card_expiry_date": "2023-09-14",
-      "credit_card_type": "mastercard"
+      "credit_card_type": "mastercard",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693506980/iluus/mastercard-26161_xoy38d.png"
     },
     {
       "id": 1429,
       "uid": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
       "credit_card_number": "5678-9012-3456-7890",
       "credit_card_expiry_date": "2024-12-28",
-      "credit_card_type": "amex"
+      "credit_card_type": "amex",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693503805/iluus/american-express-logo-freelogovectors.net_-1_1_lh8mnz.png"
     },
     {
       "id": 5624,
       "uid": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b",
       "credit_card_number": "6789-0123-4567-8901",
       "credit_card_expiry_date": "2023-10-09",
-      "credit_card_type": "discover"
-    }
+      "credit_card_type": "discover",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545639/iluus/pngegg_zowfq4.png"
+    },
+    {
+      "id": 3018,
+      "uid": "9e8d4c3b-2a1f-5b0e-7a6d-8f9c0d1e2a3f",
+      "credit_card_number": "1234-5678-9012-3456",
+      "credit_card_expiry_date": "2024-03-12",
+      "credit_card_type": "discover",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545639/iluus/pngegg_zowfq4.png"
+    },
+    {
+      "id": 5624,
+      "uid": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b",
+      "credit_card_number": "6789-0123-4567-8901",
+      "credit_card_expiry_date": "2023-10-09",
+      "credit_card_type": "discover",
+      "logo": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693545639/iluus/pngegg_zowfq4.png"
+    },
   ]
 }
