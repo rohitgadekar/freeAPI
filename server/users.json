@@ -1,264 +1,264 @@
 {
-    "users":[
-      {
-        "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Sincere@april.biz",
-        "address": {
-          "street": "Kulas Light",
-          "suite": "Apt. 556",
-          "city": "Gwenborough",
-          "zipcode": "92998-3874"
-        }
-      },
-      {
-        "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
-        "email": "Shanna@melissa.tv",
-        "address": {
-          "street": "Victor Plains",
-          "suite": "Suite 879",
-          "city": "Wisokyburgh",
-          "zipcode": "90566-7771"
-        }
-      },
-      {
-        "id": 3,
-        "name": "Clementine Bauch",
-        "username": "Samantha",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Nathan@yesenia.net",
-        "address": {
-          "street": "Douglas Extension",
-          "suite": "Suite 847",
-          "city": "McKenziehaven",
-          "zipcode": "59590-4157"
-        }
-      },
-      {
-        "id": 4,
-        "name": "Patricia Lebsack",
-        "username": "Karianne",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Julianne.OConner@kory.org",
-        "address": {
-          "street": "Hoeger Mall",
-          "suite": "Apt. 692",
-          "city": "South Elvis",
-          "zipcode": "53919-4257"
-        }
-      },
-      {
-        "id": 5,
-        "name": "Chelsey Dietrich",
-        "username": "Kamren",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Lucio_Hettinger@annie.ca",
-        "address": {
-          "street": "Skiles Walks",
-          "suite": "Suite 351",
-          "city": "Roscoeview",
-          "zipcode": "33263"
-        }
-      },
-      {
-        "id": 6,
-        "name": "Mr. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
-        "email": "Karley_Dach@jasper.info",
-        "address": {
-          "street": "Norberto Crossing",
-          "suite": "Apt. 950",
-          "city": "South Christy",
-          "zipcode": "23505-1337"
-        }
-      },
-      {
-        "id": 7,
-        "name": "Kurtis Weissnat",
-        "username": "Elwyn.Skiles",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": {
-          "street": "Rex Trail",
-          "suite": "Suite 280",
-          "city": "Howemouth",
-          "zipcode": "58804-1099"
-        }
-      },
-      {
-        "id": 8,
-        "name": "Nicholas Runolfsdottir V",
-        "username": "Maxime_Nienow",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
-        "email": "Sherwood@rosamond.me",
-        "address": {
-          "street": "Ellsworth Summit",
-          "suite": "Suite 729",
-          "city": "Aliyaview",
-          "zipcode": "45169"
-        }
-      },
-      {
-        "id": 9,
-        "name": "Glenna Reichert",
-        "username": "Delphine",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Chaim_McDermott@dana.io",
-        "address": {
-          "street": "Dayna Park",
-          "suite": "Suite 449",
-          "city": "Bartholomebury",
-          "zipcode": "76495-3109"
-        }
-      },
-      {
-        "id": 10,
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Rey.Padberg@karina.biz",
-        "address": {
-          "street": "Kattie Turnpike",
-          "suite": "Suite 198",
-          "city": "Lebsackbury",
-          "zipcode": "31428-2261"
-        }
-      },
-      {
-        "id": 11,
-        "name": "Cassandra Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Catherine@april.biz",
-        "address": {
-          "street": "Nora Crossroad",
-          "suite": "Apt. 140",
-          "city": "Howemouth",
-          "zipcode": "58804-1099"
-        }
-      },
-      {
-        "id": 12,
-        "name": "Catharine Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Isabell_Cole@april.biz",
-        "address": {
-          "street": "Faye Throughway",
-          "suite": "Suite 219",
-          "city": "Lebsackbury",
-          "zipcode": "31428-2261"
-        }
-      },
-      {
-        "id": 13,
-        "name": "Christine Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Peggie@april.biz",
-        "address": {
-          "street": "Chloe Villages",
-          "suite": "Apt. 484",
-          "city": "Howemouth",
-          "zipcode": "58804-1099"
-        }
-      },
-      {
-        "id": 14,
-        "name": "Cynthia Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Ethel@april.biz",
-        "address": {
-          "street": "Doris Forges",
-          "suite": "Apt. 774",
-          "city": "Lebsackbury",
-          "zipcode": "31428-2261"
-        }
-      },
-      {
-        "id": 15,
-        "name": "Dorothy Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
-        "email": "Alexane@april.biz",
-        "address": {
-          "street": "Ullrich Haven",
-          "suite": "Suite 964",
-          "city": "Howemouth",
-          "zipcode": "58804-1099"
-        }
-      },
-      {
-        "id": 16,
-        "name": "Eleanor Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Hollis@april.biz",
-        "address": {
-          "street": "Diana Street",
-          "suite": "Apt. 999",
-          "city": "Lebsackbury",
-          "zipcode": "31428-2261"
-        }
-      },
-      {
-        "id": 17,
-        "name": "Elizabeth Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Imelda@april.biz",
-        "address": {
-          "street": "Gerhold Lakes",
-          "suite": "Apt. 495",
-          "city": "Howemouth",
-          "zipcode": "58804-1099"
-        }
-      },
-      {
-        "id": 18,
-        "name": "Emma Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Kristy@april.biz",
-        "address": {
-          "street": "Medhurst Brooks",
-          "suite": "Suite 777",
-          "city": "Lebsackbury",
-          "zipcode": "31428-2261"
-        }
-      },
-      {
-        "id": 19,
-        "name": "Eva Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Freida@april.biz",
-        "address": {
-          "street": "Tremblay Ports",
-          "suite": "Apt. 111",
-          "city": "Howemouth",
-          "zipcode": "58804-1099"
-        }
-      },
-      {
-        "id": 20,
-        "name": "Eve Dach",
-        "username": "Moriah.Stanton",
-         "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
-        "email": "Shyanne@april.biz",
-        "address": {
-          "street": "Hickle Forges",
-          "suite": "Suite 222",
-          "city": "Lebsackbury",
-          "zipcode": "31428-2261"
-        }
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
       }
-    ]
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mr. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Cassandra Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Catherine@april.biz",
+      "address": {
+        "street": "Nora Crossroad",
+        "suite": "Apt. 140",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Catharine Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Isabell_Cole@april.biz",
+      "address": {
+        "street": "Faye Throughway",
+        "suite": "Suite 219",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Christine Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Peggie@april.biz",
+      "address": {
+        "street": "Chloe Villages",
+        "suite": "Apt. 484",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Cynthia Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Ethel@april.biz",
+      "address": {
+        "street": "Doris Forges",
+        "suite": "Apt. 774",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Dorothy Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500726/iluus/curly-hair-man_fjlgx0.png",
+      "email": "Alexane@april.biz",
+      "address": {
+        "street": "Ullrich Haven",
+        "suite": "Suite 964",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Eleanor Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Hollis@april.biz",
+      "address": {
+        "street": "Diana Street",
+        "suite": "Apt. 999",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Elizabeth Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Imelda@april.biz",
+      "address": {
+        "street": "Gerhold Lakes",
+        "suite": "Apt. 495",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Emma Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Kristy@april.biz",
+      "address": {
+        "street": "Medhurst Brooks",
+        "suite": "Suite 777",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Eva Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Freida@april.biz",
+      "address": {
+        "street": "Tremblay Ports",
+        "suite": "Apt. 111",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Eve Dach",
+      "username": "Moriah.Stanton",
+      "avatar": "https://res.cloudinary.com/eaglestudiosindia/image/upload/v1693500723/iluus/long-hair-woman_j4vnr1.png",
+      "email": "Shyanne@april.biz",
+      "address": {
+        "street": "Hickle Forges",
+        "suite": "Suite 222",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    }
+  ]
 }
