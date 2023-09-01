@@ -20,7 +20,7 @@ app.get('/api/todos', (req, res) => {
     res.send(JSON.stringify(todo));
 })
 
-app.get('/api/props', (req, res) => {
+app.get('/api/properties', (req, res) => {
     res.header("Content-Type", 'application/json');
     res.send(JSON.stringify(prop));
 })
