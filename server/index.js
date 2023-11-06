@@ -10,22 +10,22 @@ const app = express()
 app.use(cors())
 
 
-app.get('/api/cards', (req, res) => {
+app.get('/cards', (req, res) => {
     res.header("Content-Type", 'application/json');
     res.send(JSON.stringify(cards));
 })
 
-app.get('/api/todos', (req, res) => {
+app.get('/todos', (req, res) => {
     res.header("Content-Type", 'application/json');
     res.send(JSON.stringify(todo));
 })
 
-app.get('/api/props', (req, res) => {
+app.get('/props', (req, res) => {
     res.header("Content-Type", 'application/json');
     res.send(JSON.stringify(prop));
 })
 
-app.get('/api/users', (req, res) => {
+app.get('/users', (req, res) => {
     res.header("Content-Type", 'application/json');
     res.send(JSON.stringify(users));
 })
