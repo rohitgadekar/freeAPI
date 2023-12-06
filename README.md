@@ -1,4 +1,5 @@
 
+
 # RESTFUL API
 
 
@@ -59,25 +60,49 @@ Start the server
 USERS
 
 ```bash
-  https://rohits-server.vercel.app/api/users
+  https://api.v1.rohitgadekar.com/users
 ```
 
 PROPERTIES
 
 ```bash
-  https://rohits-server.vercel.app/api/props
+  https://api.v1.rohitgadekar.com/props
 ```
 
 CREDIT CARDS
 
 ```bash
-  https://rohits-server.vercel.app/api/cards
+  https://api.v1.rohitgadekar.com/cards
 ```
 
 TODO
 ```bash
-  https://rohits-server.vercel.app/api/todos
+  https://api.v1.rohitgadekar.com/todos
 ```
+
+
+
+## API Reference
+
+#### Base URI 
+
+```http
+  https://api.v1.rohitgadekar.com/{Parameter}
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `users` | `string` | **Required**.  |
+| `props` | `string` | **Required**.  |
+| `cards` | `string` | **Required**.  |
+| `todos` | `string` | **Required**.  |
+
+
+
+
+
+
+
 ## Authors
 
 - [@rohitgadekar](https://www.github.com/rohitgadekar)
