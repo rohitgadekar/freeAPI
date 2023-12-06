@@ -10,14 +10,19 @@ All endpoints are designed following the RESTful architectural principles. They 
 - Testing Purposes
 
 
+
 ## Tech Stack
 
 
-**Server :**  Nodejs, Express
+
+| Server   | 
+| :------- | 
+| `Node`   |
+| `Express`| 
 
 
 
-## Installation
+## Run Locally
 
 Clone this repository to your local machine.
 
@@ -28,7 +33,7 @@ Clone this repository to your local machine.
 ```
 
     
-## Run Locally
+## Installation
 
 Clone the project
 
@@ -100,6 +105,11 @@ TODO
 
 
 
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1701853530/personal/Screenshot_from_2023-12-06_14-35-20_l31owv.png)
+
+
 
 
 
@@ -115,6 +125,12 @@ TODO
 
 
 ![Logo](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us [here](rohitgadekar.com)
+
 
 
 
