@@ -121,5 +121,5 @@ TODO
 ##
 
 
-![Logo](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1701850054/personal/banner_d6kkrx.png)
+![Logo](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1701850297/personal/Untitled_design_jakkwd.png)
 
